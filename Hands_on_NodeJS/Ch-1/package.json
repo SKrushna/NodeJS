@@ -1,0 +1,24 @@
+{
+  "name": "ch-1",
+  "version": "1.0.0",
+  "description": "NodeJS basics",
+  "main": "FetchingFileFromPath.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Functions",
+    "attributes",
+    "timeout",
+    "and",
+    "callback",
+    "function"
+  ],
+  "author": "Krushna",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "npm-start-command": "^1.0.1"
+  },
+  "devDependencies": {}
+}
