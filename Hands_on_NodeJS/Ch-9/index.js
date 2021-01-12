@@ -12,12 +12,12 @@ const ex5 = require('./Ex-5.js');
 const ex6 = require('./Ex-6.js');
 
 // executing functions according to the definition
-//function1();  // immediate calling fs_Stat.js file
-//function2();  // immediate calling ReadFromFile.js
-//function3();  // immediate calling WriteInFile.js
-//ex1();  // immediate calling Ex-1.js\
-//ex2();  // immediate calling Ex-2.js
-//ex3();  // immediate calling Ex-3.js
-//ex4();  // immediate calling Ex-4.js
-//ex5();  // immediate calling Ex-5.js
+function1();  // immediate calling fs_Stat.js file
+function2();  // immediate calling ReadFromFile.js
+function3();  // immediate calling WriteInFile.js
+ex1();  // immediate calling Ex-1.js\
+ex2();  // immediate calling Ex-2.js
+ex3();  // immediate calling Ex-3.js
+ex4();  // immediate calling Ex-4.js
+ex5();  // immediate calling Ex-5.js
 ex6();  // immediate calling Ex-6.js
