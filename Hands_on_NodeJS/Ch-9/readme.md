@@ -1,6 +1,4 @@
-
-
-How to run all the javascript files?
+## How to run all the javascript files?
 
 Follow the below Steps!
 
@@ -9,4 +7,3 @@ Follow the below Steps!
 
 
 This will call index.json file, and from that all the other files will be called.
-
