@@ -1,0 +1,12 @@
+{
+  "name": "ch-10",
+  "version": "1.0.0",
+  "description": "Chapter 10: HTTP",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Krushna",
+  "license": "ISC"
+}
