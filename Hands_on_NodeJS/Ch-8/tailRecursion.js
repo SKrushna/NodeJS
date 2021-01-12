@@ -20,3 +20,4 @@ setInterval(function() {
         console.log('async is done!');
     });
 }, interval);
+
