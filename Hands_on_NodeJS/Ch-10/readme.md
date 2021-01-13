@@ -1,8 +1,8 @@
 ## How to run all the javascript files?
 
-Follow the below Steps!
+Follow the below Step!
 
-1) To run all the files at a time, write command in the linux terminal: 
+1) To run all the files at a time, write command in your Linux terminal: 
 --> npm start
 
 
@@ -16,6 +16,6 @@ After executing the above command, test the below links in your browser.
 4. For Ex-4: see what is being written in the console
 
 
-Inside HttpServer.js file, \
+In HttpServer.js file, \
 Server 1 is running on port 4000: http://localhost:4000/ \
-Server 2 is running on port 4011: http://localhost:4011/ \
+Server 2 is running on port 4011: http://localhost:4011/ 
