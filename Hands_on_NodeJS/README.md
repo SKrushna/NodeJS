@@ -172,7 +172,6 @@ After executing the above command, test the below links in your browser.
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
 For chapter 14: \
 
 Follow the below Step!
