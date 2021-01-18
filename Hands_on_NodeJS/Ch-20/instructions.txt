@@ -1,0 +1,11 @@
+## Install the node-inspector module:
+
+1) $ npm install node-inspector
+
+
+First check your node version using "node -v". If the node version is <=6.3.1, then simply install it using "npm install node-inspector" or "sudo npm install node-inspector". If the node version is >6.3.1, then first install that version by writing "nvm install 6.3.1". If you haven't already install nvm, then refer https://www.liquidweb.com/kb/how-to-install-nvm-node-version-manager-for-node-js-on-ubuntu-12-04-lts/.
+
+
+Now, after having node version <=6.3.1, write "nvm use 6.3.1" and then install node-inspector using "npm install node-inspector" or "sudo npm install node-inspector".
+
+
