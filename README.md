@@ -1,12 +1,25 @@
 # NodeJS for beginners
 
-This repo will help you to learn the basics of NodeJS by understanding the programs given here. This will cover all the chapter's exercise of the Hands-on Node.JS textbook by Pedro Teixeria along with additional problems from other resources like javatpoint, GeeksforGeeks and youtube videos of Nodejs.
+This repo will help you to learn the basics of NodeJS by understanding the programs given here. This will cover all the chapter's exercise of the **Hands-on Node.JS** textbook by **Pedro Teixeria** and **The Node Beginner Book** by **Manuel Kiessling**
+
+## The Node Beginner Book by Manuel Kiessling
+
+### How to run all the javascript files in each chapters?
+
+Just write the below command in your terminal:\
+
+--> $ npm start
 
 
-## How to run all the javascript files in each chapters?
+Now test it on the localhost: http://localhost:8888
 
 
-For chapter 1: \
+## Hands-on-nodejs 
+
+### How to run all the javascript files in each chapters?
+
+
+For chapter 1: 
 Follow the below Steps!
 
 1) To run FetchingFileFromPath.js, write command in the terminal:
@@ -26,7 +39,7 @@ Follow the below Steps!
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-For chapter 2 and Chapter 3: \
+For chapter 2 and Chapter 3: 
 
 Follow the below Steps!
 
@@ -45,7 +58,7 @@ And in Program 3, the function will go on waiting for infinite time as it never 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-For chapter 5: \
+For chapter 5: 
 
 Follow the below Steps!
 
@@ -59,7 +72,7 @@ Follow the below Steps!
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-For chapter 6: \
+For chapter 6: 
 
 Follow the below Steps!
 
@@ -76,7 +89,7 @@ Follow the below Steps!
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-For chapter 7: \
+For chapter 7: 
 
 Follow the below Steps!
 
@@ -101,7 +114,7 @@ After executing this program,if we test it on the server by writing http://local
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-For chapter 8: \
+For chapter 8: 
 
 Follow the below Steps!
 
@@ -115,7 +128,7 @@ Follow the below Steps!
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-For chapter 9: \
+For chapter 9: 
 
 Follow the below Steps!
 
@@ -129,7 +142,7 @@ This will call index.json file, and from that all the other files will be called
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-For chapter 10: \
+For chapter 10: 
 
 Follow the below Step!
 
@@ -155,7 +168,7 @@ Server 2 is running on port 4011: http://localhost:4011/
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-For chapter 12: \
+For chapter 12: 
 
 Follow the below Step!
 
@@ -172,7 +185,7 @@ After executing the above command, test the below links in your browser.
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-For chapter 14: \
+For chapter 14: 
 
 Follow the below Step!
 
@@ -186,7 +199,7 @@ Follow the below Step!
 --> $ node datagram_server.js
 
 4) To run receive_multicast.js file, write command in the terminal:
---> node receive_multicast.js
+--> $ node receive_multicast.js
 
 5) To run send_multicast.js file, write command in the terminal:
 --> $ node send_multicast.js
@@ -195,4 +208,3 @@ Follow the below Step!
 To send UDP packets, do step 1) and then step 2). And to multicast a message, do step 4) and then step 3)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
-
