@@ -4,7 +4,7 @@ This repo will help you to learn the basics of NodeJS by understanding the progr
 
 ## "The Node Beginner Book" by Manuel Kiessling
 
-#### How to run all the javascript files in each chapters?
+### How to run all the javascript files in each chapters?
 
 Just write the below command in your terminal:
 
@@ -16,7 +16,7 @@ Now test it on the localhost: http://localhost:8888/
 
 ## "Hands-on-nodejs" by Pedro Teixeria
 
-#### How to run all the javascript files in each chapters?
+### How to run all the javascript files in each chapters?
 
 
 For chapter 1: 
