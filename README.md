@@ -6,9 +6,9 @@ This repo will help you to learn the basics of NodeJS by understanding the progr
 
 ### How to run all the javascript files in each chapters?
 
-Just write the below command in your terminal:\
+Just write the below command in your terminal:
 
---> $ npm start
+$ npm start
 
 
 Now test it on the localhost: http://localhost:8888/
