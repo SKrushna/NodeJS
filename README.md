@@ -2,9 +2,9 @@
 
 This repo will help you to learn the basics of NodeJS by understanding the programs given here. This will cover all the chapter's exercise of the **Hands-on Node.JS** textbook by **Pedro Teixeria** and **The Node Beginner Book** by **Manuel Kiessling**
 
-## The Node Beginner Book by Manuel Kiessling
+## "The Node Beginner Book" by Manuel Kiessling
 
-### How to run all the javascript files in each chapters?
+#### How to run all the javascript files in each chapters?
 
 Just write the below command in your terminal:
 
@@ -14,9 +14,9 @@ $ npm start
 Now test it on the localhost: http://localhost:8888/
 
 
-## Hands-on-nodejs 
+## "Hands-on-nodejs" by Pedro Teixeria
 
-### How to run all the javascript files in each chapters?
+#### How to run all the javascript files in each chapters?
 
 
 For chapter 1: 
