@@ -1,0 +1,12 @@
+{
+  "name": "ch-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "function_passing.js",
+  "scripts": {
+    "start": "node function_passing.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Krushna",
+  "license": "ISC"
+}
