@@ -11,7 +11,7 @@ Just write the below command in your terminal:\
 --> $ npm start
 
 
-Now test it on the localhost: http://localhost:8888
+Now test it on the localhost: http://localhost:8888/
 
 
 ## Hands-on-nodejs 
